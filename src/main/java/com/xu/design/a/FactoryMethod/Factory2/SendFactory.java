@@ -1,8 +1,8 @@
-package com.xu.design.FactoryMethod.Factory2;
+package com.xu.design.a.FactoryMethod.Factory2;
 
-import com.xu.design.FactoryMethod.Factory1.MailSender;
-import com.xu.design.FactoryMethod.Factory1.Sender;
-import com.xu.design.FactoryMethod.Factory1.SmsSender;
+import com.xu.design.a.FactoryMethod.Factory1.MailSender;
+import com.xu.design.a.FactoryMethod.Factory1.Sender;
+import com.xu.design.a.FactoryMethod.Factory1.SmsSender;
 
 /**
  * 多个工厂方法模式,提供多个工厂方法，分别创建对象

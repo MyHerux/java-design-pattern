@@ -1,6 +1,6 @@
-package com.xu.design.FactoryMethod.AbstractFactory;
+package com.xu.design.a.FactoryMethod.AbstractFactory;
 
-import com.xu.design.FactoryMethod.Factory1.Sender;
+import com.xu.design.a.FactoryMethod.Factory1.Sender;
 
 /**
  * 抽象工厂模式.

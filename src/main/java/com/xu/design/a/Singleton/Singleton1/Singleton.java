@@ -1,4 +1,4 @@
-package com.xu.design.Singleton.Singleton1;
+package com.xu.design.a.Singleton.Singleton1;
 
 /**
  * 单例对象（Singleton）是一种常用的设计模式。在Java应用中，单例对象能保证在一个JVM中，该对象只有一个实例存在。这样的模式有几个好处：

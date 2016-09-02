@@ -1,4 +1,4 @@
-package com.xu.design.Singleton.Singleton2;
+package com.xu.design.a.Singleton.Singleton2;
 
 /**
  * 饿汉式单例类.在类初始化时，已经自行实例化

@@ -1,4 +1,4 @@
-package com.xu.design.FactoryMethod.Factory1;
+package com.xu.design.a.FactoryMethod.Factory1;
 
 public class MailSender implements Sender {
     @Override

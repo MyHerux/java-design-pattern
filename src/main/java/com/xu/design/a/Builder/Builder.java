@@ -1,8 +1,8 @@
-package com.xu.design.Builder;
+package com.xu.design.a.Builder;
 
-import com.xu.design.FactoryMethod.Factory1.MailSender;
-import com.xu.design.FactoryMethod.Factory1.Sender;
-import com.xu.design.FactoryMethod.Factory1.SmsSender;
+import com.xu.design.a.FactoryMethod.Factory1.MailSender;
+import com.xu.design.a.FactoryMethod.Factory1.Sender;
+import com.xu.design.a.FactoryMethod.Factory1.SmsSender;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.xu.design.FactoryMethod.Factory1;
+package com.xu.design.a.FactoryMethod.Factory1;
 
 /**
  * 普通工厂模式，建立一个工厂类，对实现了同一接口的一些类进行实例的创建

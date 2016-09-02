@@ -1,4 +1,4 @@
-package com.xu.design.Singleton.Singleton1;
+package com.xu.design.a.Singleton.Singleton1;
 
 /**
  * 在getInstance方法上加同步

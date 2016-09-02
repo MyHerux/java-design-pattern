@@ -1,4 +1,4 @@
-package com.xu.design.Singleton.Singleton1;
+package com.xu.design.a.Singleton.Singleton1;
 
 /**
  * 静态内部类
