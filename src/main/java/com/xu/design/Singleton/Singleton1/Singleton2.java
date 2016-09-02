@@ -4,6 +4,7 @@ package com.xu.design.Singleton.Singleton1;
  * 在getInstance方法上加同步
  */
 public class Singleton2 {
+
     private static Singleton2 instance = null;
 
     /* 私有构造方法，防止被实例化 */
