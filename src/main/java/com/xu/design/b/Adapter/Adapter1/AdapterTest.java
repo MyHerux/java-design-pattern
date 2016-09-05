@@ -1,7 +1,7 @@
 package com.xu.design.b.Adapter.Adapter1;
 
 /**
- *
+ * 这样Targetable接口的实现类就具有了Source类的功能。
  */
 public class AdapterTest {
   
