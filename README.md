@@ -14,3 +14,11 @@ Java Design Pattern (设计模式) <br>
 	├── com.xu.design.a.Prototype	// 原型模式（Prototype）
 	├── com.xu.design.a.Singleton	// 单例模式（Singleton）
 
+    ├── com.xu.design.b	        // 结构型模式
+    
+    ├── com.xu.design.b.Adapter	// 适配器模式（Adapter）
+	├── com.xu.design.b.Bridge	// 桥接模式（Bridge）
+	├── com.xu.design.b.Decorator	// 装饰模式（Decorator）
+	├── com.xu.design.b.Facade	// 外观模式（Facade）
+	├── com.xu.design.b.Proxy	// 代理模式（Proxy）
+
