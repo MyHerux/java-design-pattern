@@ -21,4 +21,6 @@ Java Design Pattern (设计模式) <br>
 	├── com.xu.design.b.Decorator	// 装饰模式（Decorator）
 	├── com.xu.design.b.Facade	// 外观模式（Facade）
 	├── com.xu.design.b.Proxy	// 代理模式（Proxy）
+	├── com.xu.design.b.Composite	// 组合模式（Composite）
+	
 
